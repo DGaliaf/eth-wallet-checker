@@ -1,1 +1,1 @@
-from .eth import Checker as ETHChecker
+from .eth import Checker
